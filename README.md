@@ -4,3 +4,7 @@
 ```
 $(npm bin)/bower install
 ```
+### Get scope of Angular Element from console
+```
+angular.element($0).scope()
+```
